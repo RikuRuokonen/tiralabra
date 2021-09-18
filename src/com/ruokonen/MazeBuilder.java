@@ -13,7 +13,14 @@ public class MazeBuilder {
         }
     }
 
+
+    private void generateMaze() {
+
+    }
+
+
     public char[][] getMaze() {
         return maze;
     }
+
 }
