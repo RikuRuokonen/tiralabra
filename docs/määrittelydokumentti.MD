@@ -3,11 +3,11 @@ Tavoittena on löytää lyhin polku ulos labyrintistä. Labyrinttinä toimii 2d-
 
 Algoritmit joita vertaillaan on A* algoritmi ja siitä jalostettu JPS.
 
-###Ohjelman käyttö ja syötteet
+### Ohjelman käyttö ja syötteet
 
 Ohjelmalle voi antaa syötteenä oman ASCII kartan tai antaa ohjelman generoida kartan. Ohjelma tulostaa lyhimmän reitin ja toteutuneen ajan.
 
-###Aika- ja tilavaativuudet
+### Aika- ja tilavaativuudet
 Tavoitellut aika- ja tilavaativuudet vastaavat tunnettuja A* ja JPS vaatimuksia.
 
 Aikavaativuudet:
