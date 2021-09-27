@@ -9,5 +9,5 @@ eri algoritmeihin. Tämä myös johti siihen että kirjoitin paljon Viikko 2 teh
 
 Aikaa käytin tällä viikolla n. 5 tuntia.
 
-Ensi viikolla tavoitteena pyöräyttää UI kuntoon ja aloittaa Algoritmien perusluokkien teko sekä Keon toteuttaminan.
+Ensi viikolla tavoitteena pyöräyttää UI kuntoon ja aloittaa Algoritmien perusluokkien teko sekä Keon toteuttaminen.
 Myös JUnit testit tavoitteena liittää ensi viikolla.
